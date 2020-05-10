@@ -10,3 +10,9 @@ d Trees
 e Graphs
 f Sorting
 g Files
+
+C Programming
+a Pointers
+b Functions
+c Array
+d Structures
